@@ -2,6 +2,7 @@
 This repository serves as a portfolio for projects completed as part of my Uphold Data Science Certificate. It showcases my practical application of data science methodologies, from data acquisition and cleaning to advanced analysis, feature engineering, and visualization, utilizing industry-standard tools and techniques.
 
 ## 📚 Table of Contents
+
 *Week 1 Project: Customer Sign-up & Support Ticket Analysis*
 
 *Week 2 Project: Green Cart Ltd. Sales & Customer Behaviour Analysis*
@@ -48,13 +49,13 @@ Technologies Used: Python (Pandas, NumPy, Matplotlib, Seaborn), Google Colab.
 Relevant Files: ProjectWeek2.ipynb, sales_data.csv, product_info.csv, customer_info.csvù
 
 
-**Week 3 Project: StreamWorks Media Churn Prediction & Behaviour Analysis**
+## Week 3 Project: StreamWorks Media Churn Prediction & Behaviour Analysis
 
 **Description:** Analyzed customer churn for a UK-based video streaming platform, identifying key behavioral drivers, performing statistical analysis, and building a logistic regression model to predict future churners.
   
 **Key Skills:** Statistical analysis (Chi-square, t-tests), predictive modeling (Logistic Regression), model evaluation (ROC-AUC, Confusion Matrix), data cleaning, feature engineering, data visualization.
 
-**Week 4 Project: E-commerce Sales Forecasting & Anomaly Detection**
+## Week 4 Project: E-commerce Sales Forecasting & Anomaly Detection
 
 * **Description:** Developed time series models to forecast future sales for an e-commerce business, identifying seasonal trends and detecting unusual sales patterns to optimize inventory and marketing strategies.
 * **Key Skills:** Time series analysis (ARIMA, Prophet), forecasting, anomaly detection, data aggregation, advanced visualization, model deployment concepts.
