@@ -55,10 +55,7 @@ Relevant Files: ProjectWeek2.ipynb, sales_data.csv, product_info.csv, customer_i
   
 **Key Skills:** Statistical analysis (Chi-square, t-tests), predictive modeling (Logistic Regression), model evaluation (ROC-AUC, Confusion Matrix), data cleaning, feature engineering, data visualization.
 
-## Week 4 Project: E-commerce Sales Forecasting & Anomaly Detection
-
-* **Description:** Developed time series models to forecast future sales for an e-commerce business, identifying seasonal trends and detecting unusual sales patterns to optimize inventory and marketing strategies.
-* **Key Skills:** Time series analysis (ARIMA, Prophet), forecasting, anomaly detection, data aggregation, advanced visualization, model deployment concepts.
+## Week 4 Project: 
 
 
 ## 🛠️ Skills Demonstrated
