@@ -9,7 +9,7 @@ This repository serves as a portfolio for projects completed as part of my Uphol
 
 *Week 3 Project: StreamWorks Media Churn Prediction & Behaviour Analysis*
 
-*Week 4 TBC*
+*Week 4 Project: TechHub Customer and Sales Data Analysis*
 
 🚀 Projects
 ## Week 1 Project: Customer Sign-up & Support Ticket Analysis
@@ -57,6 +57,9 @@ Relevant Files: ProjectWeek2.ipynb, sales_data.csv, product_info.csv, customer_i
 
 ## Week 4 Project: 
 
+Description: Prepared and analyzed comprehensive customer and sales data for TechHub, an electronics retailer, to create a unified dataset for visualization in Tableau. The project involved cleaning, merging, and enriching three datasets: TechHub_Sales_Data.csv, TechHub_Customers.csv, and TechHub_Products.csv.
+
+Key Skills: Data merging and cleaning, feature engineering (calculating profit, profit margin, customer tenure, customer lifetime value, and product age), data type conversion, and data preparation for business intelligence tools like Tableau.
 
 ## 🛠️ Skills Demonstrated
 
